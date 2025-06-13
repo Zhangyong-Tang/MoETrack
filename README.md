@@ -8,7 +8,7 @@
 
 (3) A new compositional perspective for method evaluation is provided by categorising MV-RGBT into two subsets, MV-RGBT-RGB and MV-RGBT-TIR, promoting a novel in-depth analysis and offering insightful recommendations for future developments in RGBT tracking.
 
-🫵Find our survey work at another [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
+🫵Find our survey work at [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
 
 # ☕ MoETrack
 ![1941d3893289ae7e164d7c0df6cece1](https://github.com/user-attachments/assets/bc661fca-9e6e-47b3-8349-b1835fa57b57)
