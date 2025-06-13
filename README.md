@@ -1,6 +1,6 @@
-# MoETrack
+# Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Solution
 
-⚓ Motivation
+# ⚓ Motivation
 ![image](https://github.com/user-attachments/assets/e7a14035-ea33-46d1-a3c0-271202e7915e)
 
 # 🍰Contributions
