@@ -22,7 +22,7 @@ The novelty of MoETrack is two-folds: (1) The joint training of multiple experts
 
 ![6c689cfcfcea186e7874978b93fb43c](https://github.com/user-attachments/assets/f693ebcf-575d-40d0-b080-e6b4019c337e)
 
-
 ⭐ More detailed introduction of the dataset will be available [here](https://github.com/Zhangyong-Tang/MVRGBT)
 
 
+This method is built [MPLT](https://github.com/HusterYoung/MPLT), researchers can download our baseline repo and replace its lib dictory with the provided lib.zip. 
